@@ -48,8 +48,8 @@ section{
     border-radius: 10px;
 }
 
-.orange-highlight{
-    color: orange;
+.blue-highlight{
+    color: rgb(11, 142, 182);
 }
 p{
     color: rgb(71, 67, 67);
@@ -66,8 +66,12 @@ p{
 #full-stac{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, rgb(17, 175, 223),rgb(126, 66, 238));
-    border-image-slice: 1;
-    
+    border-image-slice: 1;   
+}
+#music-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(233, 21, 21),rgb(192, 59, 152));
+    border-image-slice: 1;   
 }
 footer p{
     text-align: center;
