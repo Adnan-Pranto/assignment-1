@@ -3,11 +3,11 @@
 	background-image:url("images/b_image.png");
 	background-repeat: no-repeat;
     background-position: center;
-	margin-left: 380px;
-	width:500px;
-	height: 100px;
-    padding-bottom: 50px;
-	border-radius: 4px ,solid;
+    margin-left: 300px;
+    margin-bottom:120px;
+	width:700px;
+	height: 170px;
+	
 }
 .last-part{
 	width: 40%;
@@ -23,14 +23,11 @@
 }
 .t2{
     text-align: center;
-    margin-right: 0%;
 }
 .button{
     padding: 8px 15px;
     background-image: linear-gradient(47deg, orange, tomato ,red);
-    font-size: larger;
     font-weight:700;
-    color: white;
     text-decoration: none;
     border-radius: 10px;
     width: 20%;
